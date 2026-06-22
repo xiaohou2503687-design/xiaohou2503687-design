@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm building the indie dev toolkit
 
-> **Build safe, deploy fast, get paid.** One command at a time.
+> **Build safe, deploy fast, get paid, rank higher, support smarter.** One command at a time.
 
 ---
 
@@ -8,27 +8,30 @@
 
 | Project | Description | Install | Stars |
 |---------|-------------|---------|-------|
-| 🛡️ [GuardRail](https://github.com/xiaohou2503687-design/guardrail) | Security scanner — secrets, OWASP, deps | `npm i -g github:xiaohou2503687-design/guardrail` | [![Stars](https://img.shields.io/github/stars/xiaohou2503687-design/guardrail)](https://github.com/xiaohou2503687-design/guardrail) |
-| 💰 [PayFlow](https://github.com/xiaohou2503687-design/payflow) | Stripe analytics — MRR, churn, LTV | `npm i -g github:xiaohou2503687-design/payflow` | [![Stars](https://img.shields.io/github/stars/xiaohou2503687-design/payflow)](https://github.com/xiaohou2503687-design/payflow) |
-| 🔍 [SEOmatic](https://github.com/xiaohou2503687-design/seomatic) | AI content clusters — 1 keyword → 20 articles | `npm i -g github:xiaohou2503687-design/seomatic` | [![Stars](https://img.shields.io/github/stars/xiaohou2503687-design/seomatic)](https://github.com/xiaohou2503687-design/seomatic) |
-| 🚀 [ShipFast](https://github.com/xiaohou2503687-design/shipfast-oss) | One-command deploy — no YAML, no DevOps | `npx shipfast-cli deploy` | [![Stars](https://img.shields.io/github/stars/xiaohou2503687-design/shipfast-oss)](https://github.com/xiaohou2503687-design/shipfast-oss) |
+| 🛡️ [GuardRail](https://github.com/xiaohou2503687-design/guardrail) | Security scanner — secrets, OWASP, deps | `npx guardrail scan` | [![Stars](https://img.shields.io/github/stars/xiaohou2503687-design/guardrail)](https://github.com/xiaohou2503687-design/guardrail) |
+| 💰 [PayFlow](https://github.com/xiaohou2503687-design/payflow) | Payment CLI — Alipay, WeChat, Stripe | `npx payflow init` | [![Stars](https://img.shields.io/github/stars/xiaohou2503687-design/payflow)](https://github.com/xiaohou2503687-design/payflow) |
+| 🔍 [SEOmatic](https://github.com/xiaohou2503687-design/seomatic) | SEO auditor — meta, speed, schema | `npx seomatic audit` | [![Stars](https://img.shields.io/github/stars/xiaohou2503687-design/seomatic)](https://github.com/xiaohou2503687-design/seomatic) |
+| 📸 [PageSnap](https://github.com/xiaohou2503687-design/pagesnap) | CRO auditor — screenshot + analysis | `npx pagesnap audit` | [![Stars](https://img.shields.io/github/stars/xiaohou2503687-design/pagesnap)](https://github.com/xiaohou2503687-design/pagesnap) |
+| 🤖 [BizBot](https://github.com/xiaohou2503687-design/bizbot) | AI support bot — embed 1 script | `npx bizbot serve` | [![Stars](https://img.shields.io/github/stars/xiaohou2503687-design/bizbot)](https://github.com/xiaohou2503687-design/bizbot) |
+| 🚀 [ShipFast OSS](https://github.com/xiaohou2503687-design/shipfast-oss) | Deploy templates — 1 cmd to prod | `npx shipfast-cli deploy` | [![Stars](https://img.shields.io/github/stars/xiaohou2503687-design/shipfast-oss)](https://github.com/xiaohou2503687-design/shipfast-oss) |
 
 ---
 
-## 💡 Indie Dev Lifecycle
+## 🌐 Landing Pages
 
-```
-Build (ShipFast + GuardRail) → Market (SEOmatic) → Monetize (PayFlow)
-```
-
----
-
-## ❤️ Support
-
-[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?logo=github)](https://github.com/sponsors/xiaohou2503687-design)
+- 🛡️ [GuardRail](https://xiaohou2503687-design.github.io/guardrail/) · 💰 [PayFlow](https://xiaohou2503687-design.github.io/payflow/) · 🔍 [SEOmatic](https://xiaohou2503687-design.github.io/seomatic/)
+- 📸 [PageSnap](https://xiaohou2503687-design.github.io/pagesnap/) · 🤖 [BizBot](https://xiaohou2503687-design.github.io/bizbot/)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xiaohou2503687-design&color=blue" alt="profile views">
-</p>
+## 💡 Philosophy
+
+Every tool is:
+- **One command** to get started
+- **Free tier** for solo devs
+- **Open source** (MIT)
+- **CI/CD ready** (JSON output)
+
+---
+
+*Shipping weekly. Star what you find useful ⭐*
