@@ -4,6 +4,12 @@
 
 ---
 
+## 📚 Awesome List
+
+⭐ **[Awesome Indie Dev Tools](https://github.com/xiaohou2503687-design/awesome-indie-dev-tools)** — Curated CLI tools for indie hackers.
+
+---
+
 ## 🧰 My Projects
 
 | Project | Description | Install | Stars |
@@ -19,18 +25,13 @@
 
 ## 🌐 Landing Pages
 
-- 🛡️ [GuardRail](https://xiaohou2503687-design.github.io/guardrail/) · 💰 [PayFlow](https://xiaohou2503687-design.github.io/payflow/) · 🔍 [SEOmatic](https://xiaohou2503687-design.github.io/seomatic/)
-- 📸 [PageSnap](https://xiaohou2503687-design.github.io/pagesnap/) · 🤖 [BizBot](https://xiaohou2503687-design.github.io/bizbot/)
+🛡️ [GuardRail](https://xiaohou2503687-design.github.io/guardrail/) · 💰 [PayFlow](https://xiaohou2503687-design.github.io/payflow/) · 🔍 [SEOmatic](https://xiaohou2503687-design.github.io/seomatic/) · 📸 [PageSnap](https://xiaohou2503687-design.github.io/pagesnap/) · 🤖 [BizBot](https://xiaohou2503687-design.github.io/bizbot/)
 
 ---
 
 ## 💡 Philosophy
 
-Every tool is:
-- **One command** to get started
-- **Free tier** for solo devs
-- **Open source** (MIT)
-- **CI/CD ready** (JSON output)
+Every tool is: **One command** · **Free tier** · **Open source (MIT)** · **CI/CD ready**
 
 ---
 
