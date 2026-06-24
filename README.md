@@ -15,6 +15,12 @@
 
 ---
 
+
+## Services
+
+- **Deploy Rescue ():** I help deploy your indie project in 24h -> https://xiaohou2503687-design.github.io/shipfast-oss/deploy-rescue.html
+- **Founder Pass ():** all 6 tools lifetime -> https://xiaohou2503687-design.github.io/shipfast-oss/support.html
+
 ## 🛠️ Products
 
 | Product | What | Price | Quick Link |
